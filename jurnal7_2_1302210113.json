@@ -1,0 +1,25 @@
+{
+  "members" : [
+    {
+       "firstName": "Yakup",
+       "lastName": "Atanggae",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302210113"
+    },
+    {
+       "firstName": "Ripo",
+       "lastName": "Naibaho",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302210103"
+    },
+    {
+       "firstName": "Bintang",
+       "lastName": "Wijaya",
+       "gender": "male",
+       "age": 20,
+       "nim": "1302213002"
+    }
+  ]
+}
