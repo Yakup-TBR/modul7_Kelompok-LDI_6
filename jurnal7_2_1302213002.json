@@ -1,11 +1,26 @@
 {
-  "members" : [
+  "members": [
     {
-       "firstName": "bintang",
-       "lastName": "wijaya",
-       "gender": "male",
-       "age": 19,
-       "nim": "1302213002"
+      "firstName": "bintang",
+      "lastName": "wijaya",
+      "gender": "male",
+      "age": 19,
+      "nim": "1302213002",
     },
+    {
+      "firstName": "muhammad  hakim",
+      "lastName": "hakim",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302210027",
+    },
+    {
+      "firstName": "placida",
+      "lastName": "naibaho",
+      "gender": "male",
+      "age": 20,
+      "nim": "1302213102"
+    }
+  ]
    
 }

@@ -20,15 +20,15 @@ namespace modul7_Kelompok_LDI_6
             Console.WriteLine($"lastname    :{jsonObject.lastName} ");
             Console.WriteLine($"gender      :{jsonObject.gender} ");
             Console.WriteLine($"age         :{jsonObject.age} ");
-            Console.WriteLine($"addres      :{jsonObject.address} ");
+            Console.WriteLine($"addres      :{jsonObject.address}  ");
 
 
-            Console.WriteLine("daftar nama kuliah yang diambil");
+            Console.WriteLine("daftar nama mahasiswa");
             int iter = 1;
             foreach (var course in jsonObject.courses)
             {
                 Console.WriteLine($"nama{iter}{course.code}-{course.nama}");
-                iter++
+                iter++;
 
             }
 
